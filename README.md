@@ -46,4 +46,4 @@ I'm a passionate computer science student with a growing interest in AI, machine
 ## 📫 Contact Me
 
 - 📧 Email: rania.khan4124@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/rania-khan-5a4944306
+- 🔗 LinkedIn: https://www.linkedin.com/in/rania-khan-5a4944306
